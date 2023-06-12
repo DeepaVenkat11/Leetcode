@@ -27,3 +27,4 @@
 | 2586 |  Count the number of Vovwel string in range | https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/ |
 | 2678 | Number of Senior Citizens | https://leetcode.com/problems/number-of-senior-citizens/ |
 | 2733 | Neither Minimum Nor Maximum | https://leetcode.com/problems/neither-minimum-nor-maximum/description/ |
+| 2729 | check-if-the-number-is-fascinating | https://leetcode.com/problems/check-if-the-number-is-fascinating/description/ |

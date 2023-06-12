@@ -28,3 +28,4 @@
 | 2678 | Number of Senior Citizens | https://leetcode.com/problems/number-of-senior-citizens/ |
 | 2733 | Neither Minimum Nor Maximum | https://leetcode.com/problems/neither-minimum-nor-maximum/description/ |
 | 2729 | check-if-the-number-is-fascinating | https://leetcode.com/problems/check-if-the-number-is-fascinating/description/ |
+| 2441 | Largest Positive Integer That Exists With Its Negative | https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/ |

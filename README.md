@@ -41,3 +41,5 @@
 | 137 | Single Number 2 | https://leetcode.com/problems/single-number-ii/ |
 | 260 | Single Number 3 | https://leetcode.com/problems/single-number-iii/ |
 | 151 | Reverse words in a string | https://leetcode.com/problems/reverse-words-in-a-string/ |
+| 2455 | Average value of Even numbers that are divisible by three | https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/ |
+

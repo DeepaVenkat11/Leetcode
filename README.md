@@ -36,3 +36,4 @@
 | 326 | Poer of Three | https://leetcode.com/problems/power-of-three/ |
 | 342 | Power of Four | https://leetcode.com/problems/power-of-four/ |
 | 283 | Move Zeros | https://leetcode.com/problems/move-zeroes/ |
+| 268 | Missing Number | https://leetcode.com/problems/missing-number/ |

@@ -37,3 +37,7 @@
 | 342 | Power of Four | https://leetcode.com/problems/power-of-four/ |
 | 283 | Move Zeros | https://leetcode.com/problems/move-zeroes/ |
 | 268 | Missing Number | https://leetcode.com/problems/missing-number/ |
+| 263 | Ugly Number | https://leetcode.com/problems/ugly-number/ |
+| 137 | Single Number 2 | https://leetcode.com/problems/single-number-ii/ |
+| 260 | Single Number 3 | https://leetcode.com/problems/single-number-iii/ |
+| 151 | Reverse words in a string | https://leetcode.com/problems/reverse-words-in-a-string/ |

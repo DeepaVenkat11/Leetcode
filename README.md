@@ -33,3 +33,5 @@
 | 349 | Intersection of Two Arrays | https://leetcode.com/problems/intersection-of-two-arrays/description/ |
 | 350 | Intersection of Two Arrays 2 | https://leetcode.com/problems/intersection-of-two-arrays-ii/description/ |
 | 2215 | Find the difference of two arrays | https://leetcode.com/problems/find-the-difference-of-two-arrays/description/ |
+| 326 | Poer of Three | https://leetcode.com/problems/power-of-three/ |
+| 342 | Power of Four | https://leetcode.com/problems/power-of-four/ |

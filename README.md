@@ -35,3 +35,4 @@
 | 2215 | Find the difference of two arrays | https://leetcode.com/problems/find-the-difference-of-two-arrays/description/ |
 | 326 | Poer of Three | https://leetcode.com/problems/power-of-three/ |
 | 342 | Power of Four | https://leetcode.com/problems/power-of-four/ |
+| 283 | Move Zeros | https://leetcode.com/problems/move-zeroes/ |

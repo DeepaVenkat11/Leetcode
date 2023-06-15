@@ -44,5 +44,6 @@
 | 2455 | Average value of Even numbers that are divisible by three | https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/ |
 | 2413 | Smallest Even Multiple |  https://leetcode.com/problems/smallest-even-multiple/description/ |
 | 2485 | Find the Pivot Number | https://leetcode.com/problems/find-the-pivot-integer/description/ |
+| 2540 | Minimum Common Value | https://leetcode.com/problems/minimum-common-value/description/ |
 
 

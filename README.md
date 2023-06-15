@@ -45,5 +45,6 @@
 | 2413 | Smallest Even Multiple |  https://leetcode.com/problems/smallest-even-multiple/description/ |
 | 2485 | Find the Pivot Number | https://leetcode.com/problems/find-the-pivot-integer/description/ |
 | 2540 | Minimum Common Value | https://leetcode.com/problems/minimum-common-value/description/ |
+| 2544 | Alternating Digit Sum | https://leetcode.com/problems/alternating-digit-sum/description/ |
 
 

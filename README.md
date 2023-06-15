@@ -46,6 +46,6 @@
 | 2485 | Find the Pivot Number | https://leetcode.com/problems/find-the-pivot-integer/description/ |
 | 2540 | Minimum Common Value | https://leetcode.com/problems/minimum-common-value/description/ |
 | 2544 | Alternating Digit Sum | https://leetcode.com/problems/alternating-digit-sum/description/ |
-| 2535 | Difference-between-element-sum-and-digit-sum-of-an-array/description | https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/ |
+| 2535 | Difference Between Element Sum and Digit Sum of an Array | https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/ |
 
 

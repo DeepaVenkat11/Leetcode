@@ -47,5 +47,6 @@
 | 2540 | Minimum Common Value | https://leetcode.com/problems/minimum-common-value/description/ |
 | 2544 | Alternating Digit Sum | https://leetcode.com/problems/alternating-digit-sum/description/ |
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/ |
+| 2529 | Maximum Count of Positive Integer and Negative Integer | https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/ |
 
 

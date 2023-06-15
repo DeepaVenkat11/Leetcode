@@ -42,6 +42,7 @@
 | 260 | Single Number 3 | https://leetcode.com/problems/single-number-iii/ |
 | 151 | Reverse words in a string | https://leetcode.com/problems/reverse-words-in-a-string/ |
 | 2455 | Average value of Even numbers that are divisible by three | https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/description/ |
-| 2413 |Smallest Even Multiple |  https://leetcode.com/problems/smallest-even-multiple/description/ |
+| 2413 | Smallest Even Multiple |  https://leetcode.com/problems/smallest-even-multiple/description/ |
+| 2485 | Find the Pivot Number | https://leetcode.com/problems/find-the-pivot-integer/description/ |
 
 

@@ -49,7 +49,9 @@
 | 2535 | Difference Between Element Sum and Digit Sum of an Array | https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/ |
 | 2529 | Maximum Count of Positive Integer and Negative Integer | https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/ |
 | 2652 | Sum Multiples | https://leetcode.com/problems/sum-multiples/description/ | https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/ |
-| 2656 | Maximum Sum With Exactly K Elements |
+| 2656 | Maximum Sum With Exactly K Elements | https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/ |
+| 2248 | Intersection of Multiple Arrays | https://leetcode.com/problems/intersection-of-multiple-arrays/description/ |
+ 
  
 
 

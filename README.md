@@ -51,6 +51,8 @@
 | 2652 | Sum Multiples | https://leetcode.com/problems/sum-multiples/description/ | https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/ |
 | 2656 | Maximum Sum With Exactly K Elements | https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/ |
 | 2248 | Intersection of Multiple Arrays | https://leetcode.com/problems/intersection-of-multiple-arrays/description/ |
+| 2427 | Number of Common Factors | https://leetcode.com/problems/number-of-common-factors/description/ |
+ 
  
  
 

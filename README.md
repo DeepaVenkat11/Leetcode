@@ -52,7 +52,8 @@
 | 2656 | Maximum Sum With Exactly K Elements | https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/ |
 | 2248 | Intersection of Multiple Arrays | https://leetcode.com/problems/intersection-of-multiple-arrays/description/ |
 | 2427 | Number of Common Factors | https://leetcode.com/problems/number-of-common-factors/description/ |
-|575 | Distribute Candies | https://leetcode.com/problems/distribute-candies/description/ |
+| 575 | Distribute Candies | https://leetcode.com/problems/distribute-candies/description/ |
+| 242 | Valid Anagram | https://leetcode.com/problems/valid-anagram/description/ |
  
  
  
